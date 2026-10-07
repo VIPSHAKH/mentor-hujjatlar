@@ -55,6 +55,9 @@ function Login() {
             Kirish
           </Button>
         </Form>
+        <Typography.Paragraph type="secondary" style={{ marginTop: 16, marginBottom: 0, fontSize: 12 }}>
+          Mentormisiz? <a href="/kabinet/">Mentor kabinetiga kirish</a>
+        </Typography.Paragraph>
       </Card>
     </div>
   );

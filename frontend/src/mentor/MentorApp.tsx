@@ -80,7 +80,7 @@ function Login() {
           </Button>
         </Form>
         <Typography.Paragraph type="secondary" style={{ marginTop: 16, marginBottom: 0, fontSize: 12 }}>
-          Login va parolni tuman mas'ulidan oling.
+          Login va parolni tuman mas'ulidan oling. Administrator? <a href="/admin/">Admin paneliga kirish</a>
         </Typography.Paragraph>
       </Card>
     </div>
